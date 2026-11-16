@@ -1,0 +1,19 @@
+.venv*/
+.browsers/
+captures/
+tasks/SB-1/scratch/
+tasks/SB-1/final/demos/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.vscode/
+tasks/SB-1F/scratch/
+
+# Private task evidence and generated review packages
+tasks/**/scratch/
+tasks/**/final/
+.env
+.env.*
+*.partial/

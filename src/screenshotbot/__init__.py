@@ -1,0 +1,1 @@
+"""ScreenshotBot local synthetic collector."""
